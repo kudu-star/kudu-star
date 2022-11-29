@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kudu-star
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning anyhting tech related
 - 🌱 I’m currently learning pyhton in 100 days on Udemy
-- 💞️ I’m looking to collaborate on python projects
 - 📫 Look me up on linkedIn and twitter @yveslaingui
 
 <!---
