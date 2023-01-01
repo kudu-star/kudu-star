@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kudu-star
 - 👀 I’m interested in learning anything tech related
-- 🌱 I’m currently learning Pyhton scripting, Cloud Guides and IAC and ....and ....
+- 🌱 I’m currently learning Python scripting, Cloud Guides and IAC and.... and....
 - 📫 Look me up on linkedIn @yveslaingui
 - 📫 Follow or comment on my blog https://blog.hexary.net/
 
