@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kudu-star
-- 👀 I’m interested in learning anyhting tech related
-- 🌱 I’m currently learning pyhton in 100 days on Udemy
+- 👀 I’m interested in learning anything tech related
+- 🌱 I’m currently learning Pyhton scripting, Cloud Guides and IAC and ....and ....
 - 📫 Look me up on linkedIn @yveslaingui
 - 📫 Follow or comment on my blog http://blog.hexary.net/
 
